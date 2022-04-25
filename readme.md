@@ -1,6 +1,6 @@
 # Awesome Discord Tools   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-![Awesome Lint](https://github.com/KieranRobson/awesomed-discord-tools/workflows/Awesome%20Lint/badge.svg)
+![Lint Awesome Lint](https://github.com/KieranRobson/awesomed-discord-tools/workflows/Awesome%20Lint/badge.svg)
 
 
 <p>
