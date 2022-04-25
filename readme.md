@@ -1,4 +1,4 @@
-# Awesome Discord Tools   
+# Awesome Discord Tools
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Awesome Lint](https://github.com/KieranRobson/awesomed-discord-tools/actions/workflows/Awesome%20Lint.yaml/badge.svg?branch=main)](https://github.com/KieranRobson/awesomed-discord-tools/actions/workflows/Awesome%20Lint.yaml)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/KieranRobson/awesomed-discord-tools/pulls)
@@ -49,7 +49,7 @@
 
 
 ### Frameworks
-- [Discord.js](https://github.com/discordjs) - Javascript language discord bot framework.
+- [Discord.js](https://github.com/discordjs) - JavaScript language discord bot framework.
 - [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python language discord bot framework.
 
 ### Miscellaneous
