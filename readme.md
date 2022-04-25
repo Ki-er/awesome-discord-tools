@@ -1,6 +1,6 @@
 # Awesome Discord Tools   
-<a href="https://github.com/sindresorhus/awesome">[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-<a href="https://github.com/KieranRobson/awesome-discord-tools/pulls"><img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![lint](https://github.com/KieranRobson/https://github.com/KieranRobson/awesomed-discord-tools/actions/workflows/lint.yaml/badge.svg)](https://github.com/KieranRobson/awesomed-discord-tools/actions/workflows/lint.yaml)
 
 <p>
   A curated list of awesome <a href="http://www.discord.com/">Discord</a> resources, tools and more. 
