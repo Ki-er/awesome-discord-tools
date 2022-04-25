@@ -9,8 +9,7 @@
 </p>
  If you're looking for discord communities, check out <a href="https://github.com/mhxion/awesome-discord-communities#readme">awesome-discord-communities</a>.
 
-Table of Contents
-=================
+## Table of Contents
   * [Official](#official)
   * [Guides](#guides)
        * [Beginner](#beginner)
