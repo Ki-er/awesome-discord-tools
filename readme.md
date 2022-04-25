@@ -1,6 +1,7 @@
 # Awesome Discord Tools   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![lint](https://github.com/KieranRobson/https://github.com/KieranRobson/awesomed-discord-tools/actions/workflows/lint.yaml/badge.svg)](https://github.com/KieranRobson/awesomed-discord-tools/actions/workflows/lint.yaml)
+![Lint Awesome Lint](https://github.com/KieranRobson/awesomed-discord-tools/workflows/lint/badge.svg)
+
 
 <p>
   A curated list of awesome <a href="http://www.discord.com/">Discord</a> resources, tools and more. 
