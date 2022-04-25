@@ -1,6 +1,9 @@
-# Awesome List Template
+# Awesome Discord Tools   <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://awesome.re/badge-flat.svg"></a>   <a href="https://github.com/KieranRobson/awesome-discord-tools/pulls"><img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and [awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the beginning.
+<p>
+  A curated list of awesome <a href="http://www.discord.com/">Discord</a> resources, tools and more. 
+</p>
+ If you're looking for discord communities, check out <a href="https://github.com/mhxion/awesome-discord-communities#readme">awesome-discord-communities</a>.
 
 ## Usage
 
