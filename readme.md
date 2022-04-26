@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <!-- title -->
@@ -10,9 +8,8 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/KieranRobson/awesome-discord-tools/pulls)
 
 <!-- subtitle -->
-  
-<!-- image -->
 
+  
 <!-- description -->
 <p>
   A curated list of awesome <a href="http://www.discord.com/">Discord</a> resources, tools and more. 
@@ -22,6 +19,7 @@
 
 <!-- TOC -->
 ## Contents
+
 * [Official](#official)
 * [Guides](#guides)
      * [Beginner](#beginner)
@@ -64,6 +62,8 @@
 * [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python language discord bot framework.
 
 ### Miscellaneous
+
+<!-- END CONTENT -->
 
 ## Contributing
 
