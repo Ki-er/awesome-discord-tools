@@ -29,7 +29,7 @@
 * [Frameworks](#frameworks)
 * [Contributing](#contributing)
  
-<!-- CONTENT -->
+<!-- START content -->
 ### Official
 * [Website](https://discord.com)
 * [Download](https://discord.com/download)
