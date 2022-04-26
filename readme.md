@@ -1,14 +1,26 @@
+
+
+<div align="center">
+
+<!-- title -->
 # Awesome Discord Tools
+<!--lint ignore no-dead-urls-->
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Awesome Lint](https://github.com/KieranRobson/awesome-discord-tools/actions/workflows/Awesome%20Lint.yaml/badge.svg?branch=main)](https://github.com/KieranRobson/awesome-discord-tools/actions/workflows/Awesome%20Lint.yaml)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/KieranRobson/awesome-discord-tools/pulls)
 
+<!-- subtitle -->
+  
+<!-- image -->
 
+<!-- description -->
 <p>
   A curated list of awesome <a href="http://www.discord.com/">Discord</a> resources, tools and more. 
 </p>
  If you're looking for discord communities, check out <a href="https://github.com/mhxion/awesome-discord-communities#readme">awesome-discord-communities</a>.
+</div>
 
+<!-- TOC -->
 ## Contents
 * [Official](#official)
 * [Guides](#guides)
@@ -19,6 +31,7 @@
 * [Frameworks](#frameworks)
 * [Contributing](#contributing)
  
+<!-- CONTENT -->
 ### Official
 * [Website](https://discord.com)
 * [Download](https://discord.com/download)
@@ -43,10 +56,8 @@
 * [Dyno](https://dyno.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
 * [Ticket Tool](https://tickettool.xyz/home-display) - Individual tickets for multiple categories.
 
-
 ### Webhooks
 * [Discohook](https://discohook.org/) - A message embedder without needing an external bot.
-
 
 ### Frameworks
 * [Discord.js](https://github.com/discordjs) - JavaScript language discord bot framework.
