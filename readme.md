@@ -19,7 +19,7 @@
 
 <!-- toc -->
 ## Contents
-
+* [Featured (new releases)](#featured-new-releases)
 * [Official](#official)
 * [Guides](#guides)
 * [Bots](#bots)
@@ -29,12 +29,14 @@
 * [Contributing](#contributing)
  
 <!-- START content -->
-### Official
+## Featured (new releases)
+
+## Official
 * [Website](https://discord.com)
 * [Download](https://discord.com/download)
 * [Support](https://support.discord.com/hc/en-us)
 
-### Guides
+## Guides
 * [What is Discord?](https://discord.com/safety/360044149331-what-is-discord)
 * [Making a Discord server – how it works!](https://www.ionos.co.uk/digitalguide/server/know-how/how-to-make-a-discord-server/)
 * [Understanding Discord — Channels and Categories](https://medium.com/cbblog/understanding-discord-channels-and-categories-431a77f31abe#:~:text=Category%20%E2%80%94%20Used%20to%20organize%20Channels%20into%20sections,at%20the%20same%20time%20via%20the%20Category%20Settings.)
@@ -44,20 +46,20 @@
 * [How to get GitHub notifications on your Discord server.](https://dev.to/inezabonte/how-to-get-github-notifications-on-your-discord-server-2j9o#:~:text=Head%20over%20to%20your%20repo%20then%20settings%20%3D%3E,choose%20the%20events%20which%20should%20trigger%20the%20webhook.)
 * [How To Allow Users To Self Assign Their Roles On Discord Server](https://techwiser.com/how-to-allow-users-to-self-assign-their-roles-on-discord-server/#:~:text=To%20users%20have%20to%20assign%20roles%20on%20their,they%20have%20on%20your%20server%20and%20save%20changes.) - Uses MEE6. 
 
-### Bots
+## Bots
 * [Mee6](https://mee6.xyz/) - The biggest multipurpose bot on Discord.
 * [Carl Bot](https://Carl.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
 * [Dyno](https://dyno.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
 * [Ticket Tool](https://tickettool.xyz/home-display) - Individual tickets for multiple categories.
 
-### Webhooks
+## Webhooks
 * [Discohook](https://discohook.org/) - A message embedder without needing an external bot.
 
-### Frameworks
+## Frameworks
 * [Discord.js](https://github.com/discordjs) - JavaScript language discord bot framework.
 * [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python language discord bot framework.
 
-### Miscellaneous
+## Miscellaneous
 
 <!-- END CONTENT -->
 
