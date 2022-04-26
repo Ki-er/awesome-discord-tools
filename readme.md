@@ -17,7 +17,7 @@
  If you're looking for discord communities, check out <a href="https://github.com/mhxion/awesome-discord-communities#readme">awesome-discord-communities</a>.
 </div>
 
-<!-- TOC -->
+<!-- toc -->
 ## Contents
 
 * [Official](#official)
