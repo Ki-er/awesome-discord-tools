@@ -21,21 +21,45 @@
 ## Contents
 * [Featured (new releases)](#featured-new-releases)
 * [Official](#official)
-* [Guides](#guides)
-* [Bots](#bots)
-* [Webhooks](#webhooks)
-* [Frameworks](#frameworks)
-* [Other](#other)
+  * [Links](#links)
+  * [Servers](#servers)   
+* [Community](#community)
+  * [Bots](#bots)
+  * [Frameworks](#frameworks)
+  * [Webhooks](#webhooks)
+  * [Other](#other)
+ * [Guides](#guides)
  
 <!-- START content -->
 ## Featured (new releases)
 
 ## Official
+### Links
 * [Website](https://discord.com)
 * [Download](https://discord.com/download)
 * [Support](https://support.discord.com/)
 * [Facebook](https://www.facebook.com/discord/)
 * [Twitter](https://twitter.com/discord)
+
+### Servers
+
+
+## Community
+### Bots
+* [Mee6](https://mee6.xyz/) - The biggest multipurpose bot on Discord.
+* [Carl Bot](https://Carl.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
+* [Dyno](https://dyno.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
+* [Ticket Tool](https://tickettool.xyz/home-display) - Individual tickets for multiple categories.
+
+### Frameworks
+* [Discord.js](https://github.com/discordjs) - JavaScript language discord bot framework.
+* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python language discord bot framework.
+
+
+### Webhooks
+* [Discohook](https://discohook.org/) - A message embedder without needing an external bot.
+
+### Other
 
 ## Guides
 * [What is Discord?](https://discord.com/safety/360044149331-what-is-discord)
@@ -46,20 +70,7 @@
 * [How to get GitHub notifications on your Discord server.](https://dev.to/inezabonte/how-to-get-github-notifications-on-your-discord-server-2j9o#:~:text=Head%20over%20to%20your%20repo%20then%20settings%20%3D%3E,choose%20the%20events%20which%20should%20trigger%20the%20webhook.)
 * [How To Allow Users To Self Assign Their Roles On Discord Server](https://techwiser.com/how-to-allow-users-to-self-assign-their-roles-on-discord-server/#:~:text=To%20users%20have%20to%20assign%20roles%20on%20their,they%20have%20on%20your%20server%20and%20save%20changes.) - Uses MEE6. 
 
-## Bots
-* [Mee6](https://mee6.xyz/) - The biggest multipurpose bot on Discord.
-* [Carl Bot](https://Carl.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
-* [Dyno](https://dyno.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
-* [Ticket Tool](https://tickettool.xyz/home-display) - Individual tickets for multiple categories.
 
-## Webhooks
-* [Discohook](https://discohook.org/) - A message embedder without needing an external bot.
-
-## Frameworks
-* [Discord.js](https://github.com/discordjs) - JavaScript language discord bot framework.
-* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python language discord bot framework.
-
-## Other
 
 <!-- END CONTENT -->
 
