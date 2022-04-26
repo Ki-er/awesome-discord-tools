@@ -27,6 +27,7 @@
 * [Bots](#bots)
 * [Webhooks](#webhooks)
 * [Frameworks](#frameworks)
+* [Miscellaneous](#Miscellaneous)
 * [Contributing](#contributing)
  
 <!-- START content -->
