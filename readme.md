@@ -28,7 +28,7 @@
   * [Frameworks](#frameworks)
   * [Webhooks](#webhooks)
   * [Other](#other)
- * [Guides](#guides)
+* [Guides](#guides)
  
 <!-- START content -->
 ## Featured (new releases)
