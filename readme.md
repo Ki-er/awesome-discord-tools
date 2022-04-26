@@ -26,7 +26,6 @@
 * [Webhooks](#webhooks)
 * [Frameworks](#frameworks)
 * [Other](#other)
-* [Contributing](#contributing)
  
 <!-- START content -->
 ## Featured (new releases)
