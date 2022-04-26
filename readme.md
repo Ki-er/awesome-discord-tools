@@ -25,7 +25,7 @@
 * [Bots](#bots)
 * [Webhooks](#webhooks)
 * [Frameworks](#frameworks)
-* [Miscellaneous](#Miscellaneous)
+* [Other](#other)
 * [Contributing](#contributing)
  
 <!-- START content -->
@@ -59,7 +59,7 @@
 * [Discord.js](https://github.com/discordjs) - JavaScript language discord bot framework.
 * [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python language discord bot framework.
 
-## Miscellaneous
+## Other
 
 <!-- END CONTENT -->
 
