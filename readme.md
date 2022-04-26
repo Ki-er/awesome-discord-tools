@@ -34,6 +34,8 @@
 * [Website](https://discord.com)
 * [Download](https://discord.com/download)
 * [Support](https://support.discord.com/)
+* [Facebook](https://www.facebook.com/discord/)
+* [Twitter](https://twitter.com/discord)
 
 ## Guides
 * [What is Discord?](https://discord.com/safety/360044149331-what-is-discord)
