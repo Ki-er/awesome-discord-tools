@@ -52,8 +52,16 @@
 * [Ticket Tool](https://tickettool.xyz/home-display) - Individual tickets for multiple categories.
 
 ### Frameworks
+#### JavaScript
 * [Discord.js](https://github.com/discordjs) - JavaScript language discord bot framework.
+
+#### Python
 * [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python language discord bot framework.
+
+#### C#
+
+
+
 
 
 ### Webhooks
