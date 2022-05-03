@@ -52,34 +52,27 @@
 * [Ticket Tool](https://tickettool.xyz/home-display) - Individual tickets for multiple categories.
 
 ### Frameworks
-#### JavaScript
-* [Discord.js](https://github.com/discordjs) - JavaScript language discord bot framework.
-
-#### Python
-* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python language discord bot framework.
+* [Discord.js](https://github.com/discordjs) - A JavaScript API Wrapper for the Discord API.
+* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - A Python API Wrapper for the Discord API.
 * [Pycord](https://pycord.dev/) - Modern discord bot framework built in python.
-
-
-#### C#
-
-
-
+* [Discord.Net](https://github.com/discord-net/Discord.Net) - A .NET API Wrapper for the Discord API.
 
 
 ### Webhooks
 * [Discohook](https://discohook.org/) - A message embedder without needing an external bot.
+* [IFTTT](https://ifttt.com/discord) - A collection of Discord integrations using webhooks.
 
 ### Other
 
 ## Guides
-* [What is Discord?](https://discord.com/safety/360044149331-what-is-discord)
-* [Making a Discord server – how it works!](https://www.ionos.co.uk/digitalguide/server/know-how/how-to-make-a-discord-server/)
+* [What is Discord?](https://discord.com/safety/360044149331-what-is-discord).
+* [Making a Discord server – how it works!](https://www.ionos.co.uk/digitalguide/server/know-how/how-to-make-a-discord-server/).
 * [Understanding Discord — Channels and Categories](https://medium.com/cbblog/understanding-discord-channels-and-categories-431a77f31abe#:~:text=Category%20%E2%80%94%20Used%20to%20organize%20Channels%20into%20sections,at%20the%20same%20time%20via%20the%20Category%20Settings.)
-* [How to Add Roles to a Discord Server](https://www.makeuseof.com/how-to-add-roles-to-discord-server/)
-* [What Is Discord Nitro, and Is It Worth Paying For?](https://www.howtogeek.com/667816/what-is-discord-nitro-and-is-it-worth-paying-for/)
+* [How to add roles to a Discord Server](https://www.makeuseof.com/how-to-add-roles-to-discord-server/).
+* [What is Discord Nitro, and is it worth paying for?](https://www.howtogeek.com/667816/what-is-discord-nitro-and-is-it-worth-paying-for/).
 * [How to get GitHub notifications on your Discord server.](https://dev.to/inezabonte/how-to-get-github-notifications-on-your-discord-server-2j9o#:~:text=Head%20over%20to%20your%20repo%20then%20settings%20%3D%3E,choose%20the%20events%20which%20should%20trigger%20the%20webhook.)
 * [How To Allow Users To Self Assign Their Roles On Discord Server](https://techwiser.com/how-to-allow-users-to-self-assign-their-roles-on-discord-server/#:~:text=To%20users%20have%20to%20assign%20roles%20on%20their,they%20have%20on%20your%20server%20and%20save%20changes.) - Uses MEE6. 
-
+* [How to addadd logs to your server in Discord](https://www.youtube.com/watch?v=XS8crMt2DcM).
 
 
 
