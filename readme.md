@@ -57,6 +57,8 @@
 
 #### Python
 * [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python language discord bot framework.
+* [Pycord](https://pycord.dev/) - Modern discord bot framework built in python.
+
 
 #### C#
 
@@ -80,8 +82,10 @@
 
 
 
+
+
+
 <!-- END CONTENT -->
 
 ## Contributing
-
 Contributions welcome!
