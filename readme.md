@@ -56,12 +56,12 @@
 
 ### Communities
 #### Subreddits
-[r/discordapp](https://www.reddit.com/r/discordapp) - The official Discord subreddit.
-[r/discord_bots](https://www.reddit.com/r/Discord_Bots) - Subreddit to discuss Discord bots.
-[r/discordservers](https://www.reddit.com/r/discordservers) - Subreddit to discuss Discord servers.
+* [r/discordapp](https://www.reddit.com/r/discordapp) - The official Discord subreddit.
+* [r/discord_bots](https://www.reddit.com/r/Discord_Bots) - Subreddit to discuss Discord bots.
+* [ r/discordservers](https://www.reddit.com/r/discordservers) - Subreddit to discuss Discord servers.
 
 #### Discord Servers
-[Displace](https://discord.gg/displace) - Discord meta community to discuss all things Discord.
+* [Displace](https://discord.gg/displace) - Discord meta community to discuss all things Discord.
 
 ### Bots
 * [Mee6](https://mee6.xyz/) - The biggest multipurpose bot on Discord.
@@ -75,11 +75,11 @@
 * [IFTTT](https://ifttt.com/discord) - A collection of Discord integrations using webhooks.
 
 ### Emojis
-[Rose Emoji Hub](https://disboard.org/server/528145779387269120) - A collection of Discord servers with custom emojis to use everywhere. 
-[Icons](https://discord.gg/aPvvhefmt3) - A collection of Discord servers with a range of custom icon and emojis.
-[Discords Emojis](https://discords.com/emoji-list) - A collection of emoji packs that can be used within a Discord server.
-[Blob](https://blobs.gg/) - A collection of *blob* emojis.
-[Emoji.gg](https://emoji.gg/) - A collection of emojis with a discord category. 
+* [Rose Emoji Hub](https://disboard.org/server/528145779387269120) - A collection of Discord servers with custom emojis to use everywhere. 
+* [Icons](https://discord.gg/aPvvhefmt3) - A collection of Discord servers with a range of custom icon and emojis.
+* [Discords Emojis](https://discords.com/emoji-list) - A collection of emoji packs that can be used within a Discord server.
+* [Blob](https://blobs.gg/) - A collection of *blob* emojis.
+* [Emoji.gg](https://emoji.gg/) - A collection of emojis with a discord category. 
 
 ## Guides
 * [What is Discord?](https://discord.com/safety/360044149331-what-is-discord)
