@@ -34,16 +34,6 @@
 <!-- START content -->
 ## Featured (new releases)
 
-## Development Projects
-### API Libraries
-* [Discord.js](https://github.com/discordjs) - JavaScript API Wrapper for the Discord API.
-* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python API Wrapper for the Discord API.
-* [Pycord](https://pycord.dev/) - Modern discord bot framework built in python.
-* [Discord.Net](https://github.com/discord-net/Discord.Net) - .NET API Wrapper for the Discord API.
-* [DiscordGO](https://github.com/bwmarrin/discordgo) - Golang API Wrapper for the Discord API.
-* [Restcord](https://github.com/restcord/restcord) - Discord REST API Client.
-* [Serenity](https://github.com/serenity-rs/serenity) - Rust library for the Discord API.
-
 ## Official
 * [Website](https://discord.com)
 * [Download](https://discord.com/download)
@@ -59,6 +49,17 @@
 
 ### Discord Servers
 * [Displace](https://discord.gg/displace) - Discord meta community to discuss all things Discord.
+
+
+
+## API Libraries
+* [Discord.js](https://github.com/discordjs) - JavaScript API Wrapper for the Discord API.
+* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python API Wrapper for the Discord API.
+* [Pycord](https://pycord.dev/) - Modern discord bot framework built in python.
+* [Discord.Net](https://github.com/discord-net/Discord.Net) - .NET API Wrapper for the Discord API.
+* [DiscordGO](https://github.com/bwmarrin/discordgo) - Golang API Wrapper for the Discord API.
+* [Restcord](https://github.com/restcord/restcord) - Discord REST API Client.
+* [Serenity](https://github.com/serenity-rs/serenity) - Rust library for the Discord API.
 
 ## Bots
 * [Mee6](https://mee6.xyz/) - The biggest multipurpose bot on Discord.
