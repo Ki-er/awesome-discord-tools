@@ -54,8 +54,8 @@
 * [Displace](https://discord.gg/displace) - Discord meta community to discuss all things Discord.
 
 
-
-## API Libraries
+## Development Projects
+### API Libraries
 * [Discord.js](https://github.com/discordjs) - JavaScript API Wrapper for the Discord API.
 * [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python API Wrapper for the Discord API.
 * [Pycord](https://pycord.dev/) - Modern discord bot framework built in python.
