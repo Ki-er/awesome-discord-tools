@@ -87,7 +87,7 @@
 * [What is Discord Nitro, and is it worth paying for?](https://www.howtogeek.com/667816/what-is-discord-nitro-and-is-it-worth-paying-for/)
 * [How to get GitHub notifications on your Discord server.](https://dev.to/inezabonte/how-to-get-github-notifications-on-your-discord-server-2j9o#:~:text=Head%20over%20to%20your%20repo%20then%20settings%20%3D%3E,choose%20the%20events%20which%20should%20trigger%20the%20webhook.)
 * [How To Allow Users To Self Assign Their Roles On Discord Server](https://techwiser.com/how-to-allow-users-to-self-assign-their-roles-on-discord-server/#:~:text=To%20users%20have%20to%20assign%20roles%20on%20their,they%20have%20on%20your%20server%20and%20save%20changes.) - Uses MEE6.
-* [How to addadd logs to your server in Discord.](https://www.youtube.com/watch?v=XS8crMt2DcM)
+* [How to add logs to your server in Discord.](https://www.youtube.com/watch?v=XS8crMt2DcM)
 
 
 
