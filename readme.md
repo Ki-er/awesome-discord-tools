@@ -22,7 +22,6 @@
 * [Featured (new releases)](#featured-new-releases)
 * [Development Projects](#development-projects)
   * [API Libraries](#api-libraries)
-* [Community](#community)
 * [Official](#official)
 * [Communities](#communities)
   * [Subreddits](#subreddits)
@@ -45,8 +44,6 @@
 * [Restcord](https://github.com/restcord/restcord) - Discord REST API Client.
 * [Serenity](https://github.com/serenity-rs/serenity) - Rust library for the Discord API.
 
-
-## Community
 ### Official
 * [Website](https://discord.com)
 * [Download](https://discord.com/download)
@@ -54,27 +51,27 @@
 * [Facebook](https://www.facebook.com/discord/)
 * [Twitter](https://twitter.com/discord)
 
-### Communities
-#### Subreddits
+## Communities
+### Subreddits
 * [r/discordapp](https://www.reddit.com/r/discordapp) - The official Discord subreddit.
 * [r/discord_bots](https://www.reddit.com/r/Discord_Bots) - Subreddit to discuss Discord bots.
 * [r/discordfriends](https://www.reddit.com/r/discordfriends/) - Subreddit to make friends on Discord.
 
-#### Discord Servers
+### Discord Servers
 * [Displace](https://discord.gg/displace) - Discord meta community to discuss all things Discord.
 
-### Bots
+## Bots
 * [Mee6](https://mee6.xyz/) - The biggest multipurpose bot on Discord.
 * [Carl Bot](https://Carl.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
 * [Dyno](https://dyno.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
 * [Ticket Tool](https://tickettool.xyz/home-display) - Individual tickets for multiple categories.
 * [Capatcha Bot](https://captcha.bot/) - Account verification bot to prevent raids.
 
-### Tools
+## Tools
 * [Discohook](https://discohook.org/) - A message embedder without needing an external bot.
 * [IFTTT](https://ifttt.com/discord) - A collection of Discord integrations using webhooks.
 
-### Emojis
+## Emojis
 * [Rose Emoji Hub](https://discord.com/invite/JuK2dGmCm2) - A collection of Discord servers with custom emojis to use everywhere. 
 * [Icons](https://discord.gg/aPvvhefmt3) - A collection of Discord servers with a range of custom icon and emojis.
 * [Discords Emojis](https://discords.com/emoji-list) - A collection of emoji packs that can be used within a Discord server.
