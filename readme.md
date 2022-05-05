@@ -58,7 +58,7 @@
 #### Subreddits
 * [r/discordapp](https://www.reddit.com/r/discordapp) - The official Discord subreddit.
 * [r/discord_bots](https://www.reddit.com/r/Discord_Bots) - Subreddit to discuss Discord bots.
-* [ r/discordfriends](https://www.reddit.com/r/discordfriends/) - Subreddit to make friends on Discord.
+* [r/discordfriends](https://www.reddit.com/r/discordfriends/) - Subreddit to make friends on Discord.
 
 #### Discord Servers
 * [Displace](https://discord.gg/displace) - Discord meta community to discuss all things Discord.
