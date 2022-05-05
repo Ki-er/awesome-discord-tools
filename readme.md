@@ -20,49 +20,66 @@
 <!-- toc -->
 ## Contents
 * [Featured (new releases)](#featured-new-releases)
-* [Official](#official)
-  * [Links](#links)
-  * [Servers](#servers)   
+* [Development Projects](#development-projects)
+  * [API Libraries](#api-libraries)
 * [Community](#community)
-  * [Bots](#bots)
-  * [Frameworks](#frameworks)
-  * [Webhooks](#webhooks)
-  * [Other](#other)
+* [Official](#official)
+* [Communities](#communities)
+  * [Subreddits](#subreddits)
+  * [Discord Servers](#discord-servers)
+* [Bots](#bots)
+* [Tools](#tools)
+* [Emojis](#emojis)
 * [Guides](#guides)
  
 <!-- START content -->
 ## Featured (new releases)
 
-## Official
-### Links
+## Development Projects
+### API Libraries
+* [Discord.js](https://github.com/discordjs) - JavaScript API Wrapper for the Discord API.
+* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python API Wrapper for the Discord API.
+* [Pycord](https://pycord.dev/) - Modern discord bot framework built in python.
+* [Discord.Net](https://github.com/discord-net/Discord.Net) - .NET API Wrapper for the Discord API.
+* [DiscordGO](https://github.com/bwmarrin/discordgo) - Golang API Wrapper for the Discord API.
+* [Restcord](https://github.com/restcord/restcord) - Discord REST API Client.
+* [Serenity](https://github.com/serenity-rs/serenity) - Rust library for the Discord API.
+
+
+## Community
+### Official
 * [Website](https://discord.com)
 * [Download](https://discord.com/download)
 * [Support](https://support.discord.com/)
 * [Facebook](https://www.facebook.com/discord/)
 * [Twitter](https://twitter.com/discord)
 
-### Servers
+### Communities
+#### Subreddits
+[r/discordapp](https://www.reddit.com/r/discordapp) - The official Discord subreddit.
+[r/discord_bots](https://www.reddit.com/r/Discord_Bots) - Subreddit to discuss Discord bots.
+[r/discordservers](https://www.reddit.com/r/discordservers) - Subreddit to discuss Discord servers.
 
+#### Discord Servers
+[Displace](https://discord.gg/displace) - Discord meta community to discuss all things Discord.
 
-## Community
 ### Bots
 * [Mee6](https://mee6.xyz/) - The biggest multipurpose bot on Discord.
 * [Carl Bot](https://Carl.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
 * [Dyno](https://dyno.gg) - Multipurpose bot that allows for embeds, moderation and custom commands.
 * [Ticket Tool](https://tickettool.xyz/home-display) - Individual tickets for multiple categories.
+* [Capatcha Bot](https://captcha.bot/) - Account verification bot to prevent raids.
 
-### Frameworks
-* [Discord.js](https://github.com/discordjs) - A JavaScript API Wrapper for the Discord API.
-* [Discord.py](https://discordpy.readthedocs.io/en/stable/) - A Python API Wrapper for the Discord API.
-* [Pycord](https://pycord.dev/) - Modern discord bot framework built in python.
-* [Discord.Net](https://github.com/discord-net/Discord.Net) - A .NET API Wrapper for the Discord API.
-
-
-### Webhooks
+### Tools
 * [Discohook](https://discohook.org/) - A message embedder without needing an external bot.
 * [IFTTT](https://ifttt.com/discord) - A collection of Discord integrations using webhooks.
 
-### Other
+### Emojis
+[Rose Emoji Hub](https://disboard.org/server/528145779387269120) - A collection of Discord servers with custom emojis to use everywhere. 
+[Icons](https://discord.gg/aPvvhefmt3) - A collection of Discord servers with a range of custom icon and emojis.
+[Discords Emojis](https://discords.com/emoji-list) - A collection of emoji packs that can be used within a Discord server.
+[Blob](https://blobs.gg/) - A collection of *blob* emojis.
+[Emoji.gg](https://emoji.gg/) - A collection of emojis with a discord category. 
 
 ## Guides
 * [What is Discord?](https://discord.com/safety/360044149331-what-is-discord)
