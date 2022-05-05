@@ -23,8 +23,7 @@
 <!-- toc -->
 ## Contents
 * [Featured (new releases)](#featured-new-releases)
-* [Development Projects](#development-projects)
-  * [API Libraries](#api-libraries)
+* [API Libraries](#api-libraries)
 * [Official](#official)
 * [Communities](#communities)
   * [Subreddits](#subreddits)
@@ -52,7 +51,6 @@
 
 ### Discord Servers
 * [Displace](https://discord.gg/displace) - Discord meta community to discuss all things Discord.
-
 
 
 ## API Libraries
