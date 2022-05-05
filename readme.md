@@ -23,8 +23,7 @@
 <!-- toc -->
 ## Contents
 * [Featured (new releases)](#featured-new-releases)
-* [Development Projects](#development-projects)
-  * [API Libraries](#api-libraries)
+* [API Libraries](#api-libraries)
 * [Official](#official)
 * [Communities](#communities)
   * [Subreddits](#subreddits)
@@ -54,8 +53,7 @@
 * [Displace](https://discord.gg/displace) - Discord meta community to discuss all things Discord.
 
 
-## Development Projects
-### API Libraries
+## API Libraries
 * [Discord.js](https://github.com/discordjs) - JavaScript API Wrapper for the Discord API.
 * [Discord.py](https://discordpy.readthedocs.io/en/stable/) - Python API Wrapper for the Discord API.
 * [Pycord](https://pycord.dev/) - Modern discord bot framework built in python.
