@@ -44,7 +44,7 @@
 * [Restcord](https://github.com/restcord/restcord) - Discord REST API Client.
 * [Serenity](https://github.com/serenity-rs/serenity) - Rust library for the Discord API.
 
-### Official
+## Official
 * [Website](https://discord.com)
 * [Download](https://discord.com/download)
 * [Support](https://support.discord.com/)
