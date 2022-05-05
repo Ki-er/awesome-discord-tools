@@ -22,11 +22,11 @@
 <!-- toc -->
 ## Contents
 * [Featured (new releases)](#featured-new-releases)
-* [API Libraries](#api-libraries)
 * [Official](#official)
 * [Communities](#communities)
   * [Subreddits](#subreddits)
   * [Discord Servers](#discord-servers)
+* [API Libraries](#api-libraries)
 * [Bots](#bots)
 * [Tools](#tools)
 * [Emojis](#emojis)
