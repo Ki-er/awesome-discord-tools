@@ -8,16 +8,15 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/KieranRobson/awesome-discord-tools/pulls)
 
 <!-- subtitle -->
-
-  
-<!-- description -->
 <p>
   A curated list of awesome <a href="http://www.discord.com/">Discord</a> resources, tools and more. 
 </p>
+  
+<!-- description -->
 <p>
   Discord is a VoIP, instant messaging and digital distribution platform. Users have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". 
 </p>
- If you're looking for discord communities, check out <a href="https://github.com/mhxion/awesome-discord-communities#readme">awesome-discord-communities</a>.
+  If you're looking for discord communities, check out <a href="https://github.com/mhxion/awesome-discord-communities#readme">awesome-discord-communities</a>.
 </div>
 
 <!-- toc -->
