@@ -33,8 +33,6 @@
 * [Guides](#guides)
  
 <!-- START content -->
-## Featured (new releases)
-
 ## Official
 * [Website](https://discord.com)
 * [Download](https://discord.com/download)
